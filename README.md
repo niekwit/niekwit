@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Niek Wit 👋
 
-<!--
-**niekwit/niekwit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate Bioinformatician (based in Cambridge, UK) with a strong interest in building innovative solutions and contributing to open-source projects. I enjoy learning new technologies and improving my skills.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on various Snakemake workflows
+- 🌱 I’m currently learning Docker/Apptainer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+- ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
+- ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)
+- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+- ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
+- ![VSCode](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+- ![RStudio](https://img.shields.io/badge/-RStudio-black?style=flat-square&logo=rstudio)
+
+
+## 📊 GitHub Stats
+![Niek Wit's GitHub stats](https://github-readme-stats.vercel.app/api?username=niekwit&show_icons=true&theme=radical)
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/niekwit/)
+
