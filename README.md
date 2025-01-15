@@ -13,8 +13,6 @@ I'm a passionate Bioinformatician (based in Cambridge, UK) with a strong interes
 - ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 - ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
-- ![VSCode](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-- ![RStudio](https://img.shields.io/badge/-RStudio-black?style=flat-square&logo=rstudio)
 
 
 ## 📊 GitHub Stats
